@@ -1,6 +1,6 @@
 # Andabike
 
-Repo backup of website.
+Repo backup of website. Wordpress exported as HTML, CSS, JS.
 
 Official Website: https://www.andabike.com/
 
